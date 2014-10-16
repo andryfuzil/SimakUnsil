@@ -1,9 +1,9 @@
 SimakUnsil
-==========
 
 Tugas Pemograman Internet
-Andry Fuzi Lasandry 137006199
-Yuldhan
-Inge Maudiawati
-Teja Fajar
-Acep Nasruloh
+Kelas: Teknik Informatika 2013
+Nama Kelompok:  Andry Fuzi Lasandry 137006199
+                Yuldhan
+                Inge Maudiawati
+                Teja Fajar
+                Acep Nasruloh
