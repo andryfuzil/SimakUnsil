@@ -278,3 +278,16 @@
 	{
 		color: #2B3F48;
 	}
+
+	#menu .current_page_item a
+	{
+		border: 2px solid #79C255;
+		background: #79C255;
+		border-radius: 6px;
+		color: #FFF;
+	}
+	
+	#menu .icon
+	{
+	}
+
