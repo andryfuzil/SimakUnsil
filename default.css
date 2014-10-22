@@ -233,3 +233,27 @@
 	{
 		color: #79C255;
 	}
+	
+	#logo a
+	{
+		text-decoration: none;
+		text-transform: uppercase;
+		color: #79C255;
+	}
+
+/*********************************************************************************/
+/* Menu                                                                          */
+/*********************************************************************************/
+
+	#menu
+	{
+		position: absolute;
+		top: 4.5em;
+		right: 0;
+	}
+	
+	#menu ul
+	{
+		display: inline-block;
+	}
+	
