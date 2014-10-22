@@ -108,3 +108,43 @@
 		margin: 0 auto;
 		width: auto;
 	}
+/*********************************************************************************/
+/* List Styles                                                                   */
+/*********************************************************************************/
+
+	ul.staff
+	{
+		margin-bottom: 3em;
+	}
+
+	ul.staff li
+	{
+		display: inline-block;
+	}
+	
+	ul.staff li img
+	{
+		width: 80%;
+		border-radius: 50%;
+	}
+
+
+
+/*********************************************************************************/
+/* Button Style                                                                  */
+/*********************************************************************************/
+
+	.button
+	{
+		display: inline-block;
+		padding: 0em 3em;
+		background: #79C255;
+		border-radius: 8px;
+		letter-spacing: 0.20em;
+		line-height: 4em;
+		text-decoration: none;
+		text-transform: uppercase;
+		font-weight: 400;
+		font-size: 1em;
+		color: #FFF;
+	}
