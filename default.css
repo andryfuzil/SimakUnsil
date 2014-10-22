@@ -22,7 +22,13 @@
 		font-weight: 700;
 		color: #2B3F48;
 	}
-	
+	h2
+	{
+		margin: 0;
+		padding: 0;
+		font-weight: 700;
+		color: #ffffff;
+	}
 	p, ol, ul
 	{
 		margin-top: 0;
