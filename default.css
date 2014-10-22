@@ -357,3 +357,16 @@
 		color: rgba(255,255,255,.8);
 		text-align: center;
 	}
+
+	#featured a
+	{
+		color: rgba(255,255,255,1);
+	}
+	
+	#featured .button
+	{
+		background: #FFF;
+		margin-top: 3em;
+		font-size: 1em;
+		color: #79C255;
+	}
