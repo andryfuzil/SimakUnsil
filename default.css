@@ -344,3 +344,16 @@
 		display: inline-block;
 		text-align: center;
 	}
+
+/*********************************************************************************/
+/* Featured                                                                      */
+/*********************************************************************************/
+
+	#featured
+	{wrapper
+		overflow: hidden;
+		padding: 2em 0em;
+		background: #79C255;
+		color: rgba(255,255,255,.8);
+		text-align: center;
+	}
