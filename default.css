@@ -370,3 +370,12 @@
 		font-size: 1em;
 		color: #79C255;
 	}
+
+	#featured .title
+	{
+	}
+
+	#featured .title h2
+	{
+		color: #FFF;
+	}
