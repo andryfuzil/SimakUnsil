@@ -412,3 +412,19 @@
   p:first-child { margin-top: 0; }
 
   input[type=text], input[type=password] { width: 278px; }
+
+  p.remember_me {
+    float: left;
+    line-height: 31px;
+
+
+    input {
+      position: relative;
+      bottom: 1px;
+      margin-right: 4px;
+      vertical-align: middle;
+    }
+  }
+
+  p.submit { text-align: right; }
+}
